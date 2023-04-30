@@ -1,0 +1,40 @@
+{"professors": [{
+  "id":1,
+  "name": "Bibek Upadhayay",
+  "phoneNumber": 2163708896,
+  "mailId": "bupadhayay@newhaven.edu",
+  "courses":"CS6655",
+  "portfolioLink":"https://www.linkedin.com/in/ibibek/"
+},
+{
+  "id":2,
+  "name": "Barun Chandra",
+  "phoneNumber": 2039327089,
+  "mailId": "BChandra@newhaven.edu",
+  "courses":"CS622,CS632,CS634",
+  "portfolioLink":"https://www.newhaven.edu/faculty-staff-profiles/barun-chandra.php"
+},
+{
+  "id":3,
+  "name": "Amir Esmailpour",
+  "phoneNumber": 2034794258,
+  "mailId": "AEsmailpour@newhaven.edu",
+  "courses":"CS6822",
+  "portfolioLink":"https://www.newhaven.edu/faculty-staff-profiles/amir-esmailpour.php"
+},
+{
+  "id":4,
+  "name": "Shivanjali Khare",
+  "phoneNumber": 2034794872,
+  "mailId": "SKhare@newhaven.edu",
+  "courses":"CS622,CS632,CS634",
+  "portfolioLink":"https://www.newhaven.edu/faculty-staff-profiles/shivanjali-khare.php"
+},
+{
+  "id":5,
+  "name": "Luis Rivera",
+  "phoneNumber": 2034794756,
+  "mailId": "LRivera@newhaven.edu",
+  "courses":"CS622,CS632,CS634",
+  "portfolioLink":"https://www.newhaven.edu/faculty-staff-profiles/luis-rivera.php"
+}]}
